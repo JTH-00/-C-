@@ -33,4 +33,4 @@
 - 김하겸: 기획 및 DB, 기능 일부 구현
 
 ## 🛠 기획 보고서 및 인터페이스 구현 화면
-[주차관리 프로그램_계획보고서(방민호, 김하겸, 진태흠.pdf](https://github.com/user-attachments/files/17893565/_.pdf)
+[주차관리 프로그램_계획보고서(방민호, 김하겸, 진태흠).pdf](https://github.com/user-attachments/files/17893565/_.pdf)
